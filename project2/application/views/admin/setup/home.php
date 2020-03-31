@@ -59,17 +59,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">Blackstone Law Associates - UK Immigration Lawyers in Harrow, London</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">Blackstone Law Associates - UK Immigration Lawyers in Harrow, London</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
@@ -103,17 +103,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">UK visas and immigration services</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">UK visas and immigration services</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
@@ -468,17 +468,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">UKVCAS Super Priority Service [ Decision Within 24 Hours ]</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">UKVCAS Super Priority Service [ Decision Within 24 Hours ]</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
@@ -512,17 +512,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">Why choose Blackstone Law?</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">Why choose Blackstone Law?</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
@@ -607,17 +607,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">Request a callback</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">Request a callback</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
@@ -696,17 +696,17 @@
                 <div class="row">
                     <div class="col main-article">
                         <article>
-                            <div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+                            <div class="item-page" itemscope="" itemtype="">
                                 <meta itemprop="inLanguage" content="en-GB">
                                 <span itemprop="name" class="d-none">Blackstone Law Associates</span>
                                 <span itemprop="author" class="d-none">Armughan Malik</span>
                                 <meta itemprop="datePublished" content="2018-09-18">
-                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+                                <div class="d-none" itemprop="publisher" itemscope="" itemtype="">
                                     <meta itemprop="name" content="Blackstone Law Associates">
                                 </div>
                                 <div class="page-header">
                                     <h1 class=" mb-20">
-                                        <a class="articals-title" itemprop="mainEntityOfPage" href="https://blackstonelaw.co.uk/">UKVCAS Super Priority Service [ Decision Within 24 Hours ]</a>
+                                        <a class="articals-title" itemprop="mainEntityOfPage" href="">UKVCAS Super Priority Service [ Decision Within 24 Hours ]</a>
                                     </h1>
                                 </div>
                                 <div itemprop="articleBody">
